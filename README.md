@@ -5,11 +5,11 @@
 This project focuses on detecting and classifying high-pitched environmental sounds using a novel machine learning approach. The methodology includes Adaptive Variational Modal Decomposition (AVMD) and Pseudo Wigner-Ville Distribution (PWVD) for feature extraction, followed by classification using a Convolutional Neural Network (CNN).
 
 
-## Contents of Submission
+## Contents of the Repo
 
 1. `AVMD_PWVD_Processing.py` - Python code for AVMD-PWVD image processing.
 2. `cnn.py` - Python code for the CNN model used for classification.
-3. `cnndata/` - Directory containing processed data after AVMD-PWVD processing.
+3. `cnndata/` - Directory containing processed data after AVMD-PWVD processing. -- not included, contact for data
 4. `entropy_features.json` - JSON file with entropy features, located in the `cnndata/` directory.
 
 
